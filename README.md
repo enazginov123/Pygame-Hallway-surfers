@@ -4,9 +4,7 @@
 <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame</a><br>
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
 
-<img src="https://github.com/enazginov123/Pygame-Hallway-surfers/blob/master/Screen%20Shot%202018-04-18%20at%209.38.33%20PM.png">
-<img src="https://github.com/enazginov123/Pygame-Hallway-surfers/blob/master/Screen%20Shot%202018-04-18%20at%209.38.43%20PM.png">
-<img src="https://github.com/enazginov123/Pygame-Hallway-surfers/blob/master/Screen%20Shot%202018-04-18%20at%209.38.57%20PM.png">
+
 
 <hr>
 <p>
