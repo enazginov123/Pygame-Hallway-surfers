@@ -8,7 +8,7 @@
 
 </p>
 <p>
-For example, if the chicken bumps into a teacher then the health will decrease by 15. However, the player can regain the points by collecting books. Collecting these books helps  the player increase their health by 5 and get points. These points help you win and when you have 7 points then you win! To move the chicken the player  must use the arrow keys to move up,down,and left to right. 
+For example, if the chicken bumps into a teacher then the health will decrease by 15. However, the player can regain the points by collecting books. Collecting these books helps  the player increase their health by 5 and gain points. These points help you win and when you have 15 points then you win! To move the chicken the player  must use the arrow keys to move up,down,and left to right. 
  
 </p>
 <img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/title%20screen.GIF>
