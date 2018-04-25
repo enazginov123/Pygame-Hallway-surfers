@@ -1,8 +1,4 @@
-# Pygame-Hallway-surfers
-<h2>Requirements</h2>
-<a href="https://www.python.org/downloads/">Python</a><br>
-<a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame</a><br>
-<a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How To Install</a><br>
+
 
 
 
@@ -15,3 +11,4 @@ The name of our game is “Hallway Surfers”. The objective of our game is to h
 For example, if the chicken bumps into a teacher then the health will decrease by 15. However, the player can regain the points by collecting books. Collecting these books helps  the player increase their health by 5 and get points. These points help you win and when you have 7 points then you win! To move the chicken the player  must use the arrow keys to move up,down,and left to right. 
  
 </p>
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/hallway%20surfers%20game%20description.GIF>
