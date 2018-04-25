@@ -11,8 +11,8 @@
 For example, if the chicken bumps into a teacher then the health will decrease by 15. However, the player can regain the points by collecting books. Collecting these books helps  the player increase their health by 5 and gain points. These points help you win and when you have 15 points then you win! To move the chicken the player  must use the arrow keys to move up,down,and left to right. 
  
 </p>
-<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/title%20screen.GIF width = 476> 
-<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/hallway%20surfers%20game%20description.GIF width = 476>
-<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/hallway%20surfers.GIF width = 476>
-<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/you%20lose.GIF width = 476>
-<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/you%20win.GIF width = 476>
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/title%20screen.GIF width = 976> 
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/hallway%20surfers%20game%20description.GIF width = 976>
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/hallway%20surfers.GIF width = 976>
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/you%20lose.GIF width = 976>
+<img src = https://github.com/enazginov123/Pygame-HallwaySurfers/blob/master/you%20win.GIF width = 976>
